@@ -1,3 +1,2 @@
-# C-practice_1
-Basic c++
+# Credit-Hour-Fee
 C++ program that informs students of their credit hour fees.
